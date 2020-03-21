@@ -36,4 +36,4 @@ flg1.cancel(nrC)
 print("Your flight information: ")
 flg1.toString()
 # Compare two flights
-Flight.compare(flg1.getFlightNr(), flg2.getFlightNr())
+Flight.compare(flg1, flg2)
