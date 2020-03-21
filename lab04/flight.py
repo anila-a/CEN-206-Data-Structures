@@ -78,8 +78,8 @@ class Flight():
         print("Flight No: ", self.flightNr)
         self.shortAndCapital()
     # Compare two flights
-    def compare(self, f1, f2):
-        if self.f1.equal(self.f2):
+    def compare(flg1, flg2):
+        if flg1.getFlightNr() == flg2.getFlightNr():
             print("Equal.")
         else:
             print("Not equal.")
