@@ -1,3 +1,3 @@
-Lab and homework assignments in Data Structures course, written in Python
+Lab and homework assignments in Data Structures course
 
 Spring 2020
